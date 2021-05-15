@@ -1,0 +1,99 @@
+.wrapper{
+    background-color: #36242B;
+}
+.header{
+    background-color: #F8F8F8;
+    display: flex;
+}
+.dow, .master{
+    margin: 10px;
+}
+.master{
+    margin-left: 50px;
+}
+.mollee{
+    padding: 20px;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    vertical-align: top;
+    align-content: center;
+}
+.about{
+    width: 550px;
+    background-color: #E3D8E2;
+    display: inline-block;
+    margin-left: 100px;
+    vertical-align: top;
+    margin-top: 25px;
+}
+#about1{
+    background-color: grey;
+    width: 550px;
+    vertical-align: top;
+}
+#messages{
+    display: flex;
+    justify-content: space-evenly;
+}
+.msgone{
+    background-color: grey;
+}
+.messageone{
+    background-color: #E3D8E2;
+    width: 350px;
+}
+.messagetwo{
+    background-color: #E3D8E2;
+    width: 350px;
+}
+.messagethree{
+    background-color: #E3D8E2;
+    width: 350px;
+}
+.abhead{
+    vertical-align: top;
+    margin: 0px;
+    background-color: grey;
+}
+.abvimg{
+    margin-left: 35px;
+}
+.techno{
+    background-color: grey;
+}
+.technos{
+    height: 25px;
+    width: 25px;
+    margin: 5px;
+    padding: 15px;
+}
+.shadow{
+    background-color: green;
+    border-color: black;
+    border-radius: 10px;
+    margin-left: 140px;
+}
+.alabama{
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+}
+.footer{
+    background-color: white;
+    height: 100px;
+    width: 1200px;
+    display: inline-block;
+}
+.foot1{
+    display: flex;
+    justify-content: center;
+}
+.ftimgs{
+    height: 20px;
+    width: 20px;
+}
+.foot2{
+    display: flex;
+    justify-content: center;
+}
